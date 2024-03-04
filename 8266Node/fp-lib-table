@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "8266Node")(type "KiCad")(uri "${KIPRJMOD}/libs/8266Node.pretty")(options "")(descr ""))
+)
